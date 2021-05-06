@@ -10,5 +10,5 @@ Sources: https://stackoverflow.com/questions/43766410/overwrite-an-existing-text
          https://stackoverflow.com/questions/11578936/getting-a-bunch-of-crosses-initialization-error
          http://www.cplusplus.com/forum/beginner/13083/ \
 Instructions: make all, ./assignment6.out\
-Additional Notes: I would like to one of my late days for this assignment as I will be turning it in around 2 hours late. Thank you!
+Additional Notes: I would like to use the 2nd of my 3 late days for this assignment. Thank you!
 
