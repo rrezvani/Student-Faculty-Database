@@ -9,6 +9,7 @@ Known errors: None\
 Sources: https://stackoverflow.com/questions/43766410/overwrite-an-existing-text-file-c
          https://stackoverflow.com/questions/11578936/getting-a-bunch-of-crosses-initialization-error
          http://www.cplusplus.com/forum/beginner/13083/ \
+         https://stackoverflow.com/questions/34170164/destructor-for-binary-search-tree \
 Instructions: make all, ./assignment6.out\
 Additional Notes: I would like to use the 2nd of my 3 late days for this assignment. Thank you!
 
